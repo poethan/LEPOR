@@ -1,7 +1,7 @@
 # LEPOR
 LEPOR: Automatic Machine Translation Evaluation Metric Model Series, with linguistic features and augmented factors
 
-For the different development phases and the codes, please visit :
+For their different development phases and the codes, you can visit :
 
 https://github.com/aaronlifenghan/aaron-project-lepor
 
