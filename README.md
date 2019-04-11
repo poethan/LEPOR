@@ -7,7 +7,8 @@ Perl the-evaluation-code.pl > score-file.txt
 Thanks to Paolo Dr. Bolzoni, It generates the sentence-level score and the system-level score as WMT metrics submission format. e.g. 
 
 http://www.statmt.org/wmt18/metrics-task.html 
-" <METRIC NAME>   <LANG-PAIR>   <TEST SET>   <SYSTEM>   <SEGMENT NUMBER>   <SEGMENT SCORE> <ENSEMBLE>   <AVAILABLE>"
+
+"METRIC NAME>   <LANG-PAIR>   <TEST SET>   <SYSTEM>   <SEGMENT NUMBER>   <SEGMENT SCORE> <ENSEMBLE>   <AVAILABLE"
 
 // <METRIC NAME>   <LANG-PAIR>   <TEST SET>   <SYSTEM>   <SYSTEM LEVEL SCORE>   <ENSEMBLE>   <AVAILABLE>
 
