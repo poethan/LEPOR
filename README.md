@@ -19,7 +19,7 @@ COLING:
   organization={Association for Computational Linguistics}
 }
 
-MTSUMMIT:
+MT SUMMIT:
 
 @inproceedings{han2013language,
   title={Language-independent Model for Machine Translation Evaluation with Reinforced Factors},
