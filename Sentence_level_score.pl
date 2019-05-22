@@ -333,8 +333,22 @@ foreach $file (@filename)
 				for($i=0;$i<$sentence_num;$i++)
 					{
 						for($j=0;$j<$arry_sys_length[$i];$j++)    #### sum the Pos_dif_distance of one sentence,then divided by the lenth of the sentence
+#							{
+#								$Pos_dif_sum[$i]= $Pos_dif_sum[$i] + $pos_dif[$i][$j];
+#							}
 							{
-								$Pos_dif_sum[$i]= $Pos_dif_sum[$i] + $pos_dif[$i][$j];
+							
+##								$Pos_dif_sum[$i]= $Pos_dif_sum[$i] + $pos_dif[$i][$j]; ## this is original code by simply adding the pos_dif[][], without judging whether the sysout and ref are exact the same sentence.
+
+								if(($common_num[$i]==$arry_sys_length[$i])and($arry_sys_length[$i]==$arry_ref_length[$i]))   ## if the output match othe reference exactly, then NPD=0 so that PosPenalty=1, i.e. no penalty. added in 20171013th
+									{
+										$Pos_dif_sum[$i]=0;
+									}
+								else
+									{
+										$Pos_dif_sum[$i]= $Pos_dif_sum[$i]+$pos_dif[$i][$j];
+									}
+								
 							}
 						if($arry_sys_length[$i]>0)
 							{
