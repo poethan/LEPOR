@@ -4,7 +4,7 @@ LEPOR: Automatic Machine Translation Evaluation Metric with tunable parameters a
 cmd command example:
 Perl the-evaluation-code.pl > score-file.txt
 
-Thanks to Paolo Dr. Bolzoni, It generates the sentence-level score and the system-level score as WMT metrics submission format. e.g. 
+Thanks to Paolo Dr. (Awsome) Bolzoni, It generates the sentence-level score and the system-level score as WMT metrics submission format. e.g. 
 
 http://www.statmt.org/wmt18/metrics-task.html 
 
