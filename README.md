@@ -12,6 +12,10 @@ http://www.statmt.org/wmt18/metrics-task.html
 
 "METRIC NAME, LANG-PAIR, TEST SET, SYSTEM, SYSTEM, SYSTEM LEVEL SCORE, ENSEMBLE, AVAILABLE"
 
+-------------
+For all the files about hLEPOR_baseline in WMT2019, e.g. rerun hLEPOR baseline for comparesion or improvement etc. you can find them all in this drive folder: (https://drive.google.com/open?id=1v6VR4r5U9tH-0jFzAtxTybxCJWUeCWdn)
+
+We call it baseline in WMT2019 because we did not tune the parameters in the metric and did not use the linguistic features that we used in WMT2013 either. Instead, just used a set of default parameters and only measure the scores according ot the system output and reference files, no external resources used.
 
 
 -------------
