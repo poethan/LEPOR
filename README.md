@@ -29,7 +29,7 @@ COLING:
   title={LEPOR: A Robust Evaluation Metric for Machine Translation with Augmented Factors},
   author={Han, Aaron L.-F. and Wong, Derek F. and Chao, Lidia S.},
   booktitle={Proceedings of the 24th International Conference on Computational Linguistics (COLING 2012)},
-  pages={Posters--441},
+  pages={441-450},
   year={2012},
   organization={Association for Computational Linguistics}
 }
