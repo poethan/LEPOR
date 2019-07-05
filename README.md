@@ -15,7 +15,7 @@ http://www.statmt.org/wmt18/metrics-task.html
 -------------
 For all the files about hLEPOR_baseline in WMT2019, e.g. rerun hLEPOR baseline for comparesion or improvement etc. you can find them all in this drive folder: (https://drive.google.com/open?id=1v6VR4r5U9tH-0jFzAtxTybxCJWUeCWdn)
 
-- achieved best level performace metrics in German-Czech system-level MT evaluation. Pearson correlation score with human judegment: 0.959 (https://drive.google.com/file/d/1Bf2GbtlgZaU8h7ywXH8nzjuEKtLtCD77/view?usp=sharing).
+- achieved best level performace metrics in German-Czech system-level MT evaluation. Pearson correlation score with human judegment: 0.959 (Table-6 in https://drive.google.com/file/d/1Bf2GbtlgZaU8h7ywXH8nzjuEKtLtCD77/view?usp=sharing).
 
 We call it baseline in WMT2019 because we did not tune the parameters in the metric and did not use the linguistic features that we used in WMT2013 either. Instead, just used a set of default parameters and only measure the scores according ot the system output and reference files, no external resources used.
 
