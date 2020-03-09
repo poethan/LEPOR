@@ -88,9 +88,9 @@ Msc. thesis:
 
 -------------
 
-Paper that used LEPOR (hLEPOR, nLEPOR) for their work:
+Papers that used LEPOR (hLEPOR, nLEPOR) for their work:
 
-Marzouk, S. & Hansen-Schirra, S. 'Evaluation of the impact of controlled language on neural machine translation compared to other MT architectures'. Machine Translation (2019). https://doi.org/10.1007/s10590-019-09233-w
+Marzouk, S. & Hansen-Schirra, S. 'Evaluation of the impact of controlled language on neural machine translation compared to other MT architectures'. Journal of Machine Translation (2019). https://doi.org/10.1007/s10590-019-09233-w
 
 
 
