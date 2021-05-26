@@ -89,8 +89,10 @@ Msc. thesis:
 
 # Work/Project/Papers that used/refered/discussed LEPOR (hLEPOR, nLEPOR):
 
+[LEPOR for mainstream MT and NMT evaluation:]
 Marzouk, S. & Hansen-Schirra, S. 'Evaluation of the impact of controlled language on neural machine translation compared to other MT architectures'. Journal of Machine Translation (2019). https://doi.org/10.1007/s10590-019-09233-w
 
+[LEPOR in top-performing meta-evaluation from WMT data:]
 There is a deep statistical analysis about hLEPOR and nLEPOR performance in WMT13, which shows it performed as one of the best metrics "in both the individual language pair assessment for Spanish-to-English and the aggregated set of 9 language pairs.", see the paper (Accurate Evaluation of Segment-level Machine Translation Metrics) "https://www.aclweb.org/anthology/N15-1124" Graham et al. 2015 NAACL(https://github.com/ygraham/segment-mteval)
 
 [LEPOR for Search evaluation:]
