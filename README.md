@@ -93,6 +93,11 @@ Marzouk, S. & Hansen-Schirra, S. 'Evaluation of the impact of controlled languag
 
 There is a deep statistical analysis about hLEPOR and nLEPOR performance in WMT13, which shows it performed as one of the best metrics "in both the individual language pair assessment for Spanish-to-English and the aggregated set of 9 language pairs.", see the paper (Accurate Evaluation of Segment-level Machine Translation Metrics) "https://www.aclweb.org/anthology/N15-1124" Graham et al. 2015 NAACL(https://github.com/ygraham/segment-mteval)
 
+[LEPOR for Search evaluation:]
+Liu et al. Meta-evaluation of Conversational Search Evaluation Metrics, (2021) https://arxiv.org/pdf/2104.13453.pdf ACM Transactions on Information Systems 
+
+[LEPOR fo NLG evaluation:]
+Why We Need New Evaluation Metrics for NLG. by Jekaterina Novikova et al 2017emnlp. https://www.aclweb.org/anthology/D17-1238/
 
 
 
