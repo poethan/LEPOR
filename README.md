@@ -1,6 +1,9 @@
 # LEPOR
 LEPOR: Automatic Machine Translation Evaluation Metric with tunable parameters and augmented factors
 
+For hLEPOR parameter setting on more langauge (or language pair) situations, please refer to the Table 1 (parameter values via language) of paper WMT13 https://aclanthology.org/W13-2253.pdf The parameters were mannually tuned using validation set. For automatic tuning of parameters, we have cushLEPOR now available at https://github.com/poethan/cushLEPOR 
+
+
 cmd command example:
 Perl the-evaluation-code.pl > score-file.txt
 
